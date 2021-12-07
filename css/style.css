@@ -1,0 +1,21 @@
+body{
+	
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#f4f4f4;
+	--color-footer:#898989;
+}
+
+header{
+	background-color: #fff;
+}
+footer{
+	background-color: var(#f4f4f4);
+	color: var( #898989);
+	padding: 10px 0;
+	text-align: left;
+	font-size: 13px;
+}
+
